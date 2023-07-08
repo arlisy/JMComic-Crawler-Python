@@ -11,7 +11,12 @@ def main():
     from jmcomic import str_to_list, download_album
     # 下载漫画
     download_album(str_to_list(jm_albums), option=get_option())
-JM286368
+    
+jm_albums = str_to_list(...
+JM286368                        
+86368
+jm286368
+...)
 
 def get_option():
     from jmcomic import create_option, print_eye_catching
